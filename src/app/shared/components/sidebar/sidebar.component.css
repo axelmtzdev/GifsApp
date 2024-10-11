@@ -1,0 +1,6 @@
+
+#sidebar {
+  height: 100vh;  /* Ocupa el 100% de la altura de la pantalla */
+  width: 250px;   /* Ancho fijo del sidebar */
+  background-color: #000000;  /* Color de fondo del sidebar */
+}
